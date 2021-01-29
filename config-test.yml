@@ -1,1 +1,5 @@
 # config-test
+info:
+  spring-cloud-config-center
+version:
+  v1
