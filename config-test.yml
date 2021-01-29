@@ -1,5 +1,4 @@
 # config-test
-info:
-  spring-cloud-config-center
-version:
-  v1
+
+config:
+  info: master branch spring-cloud-config-center main/config-test.yml version=v1
